@@ -18,8 +18,8 @@ from bson.decimal128 import Decimal128
 
 
 #mongodb connection
-username="G"
-password="Vigi@123"
+username=""
+password=""
 cluster_url="new.axgs8vt.mongodb.net"
 encoded_username=quote_plus(username)
 encoded_password=quote_plus(password)
